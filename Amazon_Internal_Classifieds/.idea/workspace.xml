@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a11556e-3f27-4dfa-84ce-f8ee2b5cb8f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/main/AdminApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/main/AdminApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/main/UserApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/main/UserApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/managers/AdminManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/managers/AdminManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/managers/CategoryManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/managers/ClassifiedManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/managers/UserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/managers/UserManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/models/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/models/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/models/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/models/Classified.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/models/Classified.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/Amazon/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/Amazon/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/main/AdminApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/main/AdminApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/main/UserApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/main/UserApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/managers/AdminManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/managers/AdminManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/managers/CategoryManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/managers/ClassifiedManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/managers/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/managers/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/models/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/models/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/models/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/models/Classified.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/models/Classified.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Amazon/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Amazon/models/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KAW18XhpbjtsJuJpt5MS98c2M6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/innoc/Desktop/Amazon_Internal_Classifieds"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Amazon_Internal_Classifieds" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Amazon_Internal_Classifieds" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a11556e-3f27-4dfa-84ce-f8ee2b5cb8f7" name="Changes" comment="" />
+      <created>1673417652447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673417652447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

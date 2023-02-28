@@ -1,0 +1,39 @@
+Users Table :- 
+CREATE TABLE Users(
+	userId INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	username varchar(50),
+	password varchar(30),
+	email varchar(50),
+	phone varchar(15), 
+	isActive INT NOT NULL,
+	balance DECIMAL(10,2) DEFAULT 0.0
+);
+
+
+Classifieds Table:-
+ CREATE TABLE Classifieds (
+  classifiedId INT IDENTITY(1,1) PRIMARY KEY,
+  headline VARCHAR(100) NOT NULL,
+  productName VARCHAR(50) NOT NULL,
+  brand VARCHAR(25),
+  condition VARCHAR(25),
+  description VARCHAR(500) NOT NULL,
+  price FLOAT NOT NULL,
+  category VARCHAR(100) NOT NULL,
+  userId INT,
+  approvalStatus VARCHAR(25),
+  inventoryStatus VARCHAR (25)
+);
+
+
+
+Transactions Table:-
+CREATE TABLE Transactions (
+  transactionId INT IDENTITY(111,2) PRIMARY KEY NOT NULL,
+  productId INT,
+  sellerId INT,
+  buyerId INT,
+  amount DECIMAL(10,2),
+  transactionDate DATETIME,
+  FOREIGN KEY (productId) REFERENCES Classifieds(classifiedId)
+);
